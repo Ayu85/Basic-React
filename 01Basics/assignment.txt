@@ -1,0 +1,42 @@
+Chapter 01 - Inception
+
+Theory -
+● What is Emmet?
+->inbuilt piece of code
+
+● Difference between a Library and Framework?
+->libraries target a specific functionality, while a framework tries to provide everything required to develop a complete application.
+
+● What is CDN? Why do we use it?
+->The primary purpose of a content delivery network (CDN) is to reduce latency, or reduce the delay in communication created by a network's design.
+
+● Why is React known as React?
+-> because of its core feature, which is its ability to "react" or respond dynamically to changes in data.
+
+● What is crossorigin in script tag?
+-> A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+● What is diference between React and ReactDOM
+->React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser.
+
+● What is difference between react.development.js and react.production.js files via CDN?
+->Performance will be much faster in production mode when compared to development mode.
+
+● What is async and defer? - see my Youtube video ;
+
+Coding -
+● Set up all the tools in your laptop
+○ VS Code
+○ Chrome
+○ Extensions of Chrome
+● Create a new Git repo
+● Build your first Hello World program using,
+○ Using just HTML
+○ Using JS to manipulate the DOM
+○ Using React
+■ use CDN Links
+■ Create an Element
+■ Create nested React Elements
+■ Use root.render
+● Push code to Github (Theory as well as code)
+● Learn about Arrow Functions before the next class
