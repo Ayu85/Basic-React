@@ -1,0 +1,14 @@
+{
+  "name": "02basics",
+  "version": "1.0.0",
+  "description": "this is a namaste react tut",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aayush",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
